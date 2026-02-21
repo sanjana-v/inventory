@@ -1,4 +1,4 @@
-# Inventory Reconciliation – Notes
+# Inventory Reconciliation
 
 ## Overview
 This project reconciles two inventory snapshots (`data/snapshot_1.csv` and `data/snapshot_2.csv`) to identify SKUs that were **added**, **removed**, **unchanged**, or **changed in quantity**. It produces:
