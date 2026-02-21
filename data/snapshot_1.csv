@@ -1,0 +1,77 @@
+sku,name,quantity,location,last_counted
+SKU-001,Widget A,150,Warehouse A,2024-01-08
+SKU-002,Widget B,75,Warehouse A,2024-01-08
+SKU-003,Gadget Pro,200,Warehouse B,2024-01-08
+SKU-004,Gadget Lite,50,Warehouse A,2024-01-08
+SKU-005,Connector Cable 6ft,500,Warehouse C,2024-01-08
+SKU-006,Connector Cable 10ft,350,Warehouse C,2024-01-08
+SKU-007,Power Supply Unit,80,Warehouse A,2024-01-08
+SKU-008,Power Supply Unit Pro,45,Warehouse A,2024-01-08
+SKU-009,Mounting Bracket Small,1000,Warehouse B,2024-01-08
+SKU-010,Mounting Bracket Large,750,Warehouse B,2024-01-08
+SKU-011,LED Panel 12x12,120,Warehouse A,2024-01-08
+SKU-012,LED Panel 24x24,90,Warehouse A,2024-01-08
+SKU-013,Thermal Paste Tube,2000,Warehouse C,2024-01-08
+SKU-014,Cooling Fan 80mm,300,Warehouse B,2024-01-08
+SKU-015,Cooling Fan 120mm,250,Warehouse B,2024-01-08
+SKU-016,USB Hub 4-Port,180,Warehouse A,2024-01-08
+SKU-017,USB Hub 7-Port,95,Warehouse A,2024-01-08
+SKU-018,Ethernet Cable Cat5,800,Warehouse C,2024-01-08
+SKU-019,Ethernet Cable Cat6,600,Warehouse C,2024-01-08
+SKU-020,Ethernet Cable Cat6a,400,Warehouse C,2024-01-08
+SKU-021,HDMI Cable 3ft,450,Warehouse A,2024-01-08
+SKU-022,HDMI Cable 6ft,380,Warehouse A,2024-01-08
+SKU-023,HDMI Cable 10ft,220,Warehouse A,2024-01-08
+SKU-024,DisplayPort Cable,175,Warehouse A,2024-01-08
+SKU-025,VGA Cable,50,Warehouse B,2024-01-08
+SKU-026,DVI Cable,35,Warehouse B,2024-01-08
+SKU-027,Audio Cable 3.5mm,600,Warehouse C,2024-01-08
+SKU-028,Audio Cable RCA,400,Warehouse C,2024-01-08
+SKU-029,Optical Audio Cable,150,Warehouse C,2024-01-08
+SKU-030,Surge Protector 6-Outlet,200,Warehouse A,2024-01-08
+SKU-031,Surge Protector 12-Outlet,120,Warehouse A,2024-01-08
+SKU-032,Extension Cord 10ft,300,Warehouse B,2024-01-08
+SKU-033,Extension Cord 25ft,180,Warehouse B,2024-01-08
+SKU-034,Power Strip,250,Warehouse A,2024-01-08
+SKU-035,Cable Ties 100pk ,1500,Warehouse C,2024-01-08
+SKU-036,Cable Ties 500pk,400,Warehouse C,2024-01-08
+SKU-037,Velcro Straps 50pk,800,Warehouse C,2024-01-08
+SKU-038,Label Maker,25,Warehouse A,2024-01-08
+SKU-039,Label Tape,200,Warehouse A,2024-01-08
+SKU-040,Screwdriver Set,150,Warehouse B,2024-01-08
+SKU-041,Precision Screwdriver Set,100,Warehouse B,2024-01-08
+SKU-042,Wire Stripper,75,Warehouse B,2024-01-08
+SKU-043,Crimping Tool,60,Warehouse B,2024-01-08
+SKU-044,Multimeter Basic,40,Warehouse A,2024-01-08
+SKU-045,Multimeter Pro,25,Warehouse A,2024-01-08
+SKU-046,Soldering Iron,35,Warehouse B,2024-01-08
+SKU-047,Solder Wire,300,Warehouse B,2024-01-08
+SKU-048,Heat Shrink Tubing,500,Warehouse C,2024-01-08
+SKU-049,Electrical Tape,800,Warehouse C,2024-01-08
+SKU-050,Anti-Static Wrist Strap,200,Warehouse A,2024-01-08
+SKU-051,Anti-Static Mat,50,Warehouse A,2024-01-08
+SKU-052, Compressed Air Can,400,Warehouse C,2024-01-08
+SKU-053,Isopropyl Alcohol 99%,150,Warehouse C,2024-01-08
+SKU-054,Microfiber Cloth 10pk,300,Warehouse C,2024-01-08
+SKU-055,Screen Cleaner,250,Warehouse C,2024-01-08
+SKU-056,Keyboard Cleaner Gel,180,Warehouse C,2024-01-08
+SKU-057,Monitor Stand,45,Warehouse A,2024-01-08
+SKU-058,Laptop Stand,60,Warehouse A,2024-01-08
+SKU-059,Tablet Stand,80,Warehouse A,2024-01-08
+SKU-060,Phone Stand,120,Warehouse A,2024-01-08
+SKU-061,Desk Organizer,90,Warehouse B,2024-01-08
+SKU-062,Cable Management Box,110,Warehouse B,2024-01-08
+SKU-063,Headphone Hook,200,Warehouse B,2024-01-08
+SKU-064,Webcam Mount,75,Warehouse A,2024-01-08
+SKU-065,Ring Light 10in,40,Warehouse A,2024-01-08
+SKU-066,Ring Light 18in,25,Warehouse A,2024-01-08
+SKU-067,Tripod Small,55,Warehouse B,2024-01-08
+SKU-068,Tripod Large,35,Warehouse B,2024-01-08
+SKU-069,Green Screen,20,Warehouse A,2024-01-08
+SKU-070,Backdrop Stand,15,Warehouse A,2024-01-08
+SKU-071,USB Microphone,30,Warehouse A,2024-01-08
+SKU-072,XLR Microphone,20,Warehouse A,2024-01-08
+SKU-073,Pop Filter,100,Warehouse B,2024-01-08
+SKU-074,Boom Arm,45,Warehouse B,2024-01-08
+SKU-075,Shock Mount,40,Warehouse B,2024-01-08
+

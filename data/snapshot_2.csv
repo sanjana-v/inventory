@@ -1,0 +1,80 @@
+sku,product_name,qty,warehouse,updated_at
+SKU-001,Widget A,145,Warehouse A,2024-01-15
+SKU-002, Widget B,70.0,Warehouse A,2024-01-15
+SKU-003,Gadget Pro,185,Warehouse B,2024-01-15
+SKU-004,Gadget Lite,48,Warehouse A,2024-01-15
+SKU005,Connector Cable 6ft,480,Warehouse C,2024-01-15
+SKU-006,Connector Cable 10ft,350,Warehouse C,2024-01-15
+SKU-007,Power Supply Unit,80.00,Warehouse A,2024-01-15
+sku-008,Power Supply Unit Pro,42,Warehouse A,2024-01-15
+SKU-009,Mounting Bracket Small,975,Warehouse B,2024-01-15
+SKU-010,Mounting Bracket Large ,720,Warehouse B,2024-01-15
+SKU-011,LED Panel 12x12,115,Warehouse A,2024-01-15
+SKU-012,LED Panel 24x24,85,Warehouse A,2024-01-15
+SKU-013,Thermal Paste Tube,1850,Warehouse C,2024-01-15
+SKU-014,Cooling Fan 80mm,290,Warehouse B,2024-01-15
+SKU-015,Cooling Fan 120mm,245,Warehouse B,2024-01-15
+SKU-016,USB Hub 4-Port,165,Warehouse A,2024-01-15
+SKU-017,USB Hub 7-Port,88,Warehouse A,2024-01-15
+SKU018,Ethernet Cable Cat5,750,Warehouse C,2024-01-15
+SKU-019,Ethernet Cable Cat6,580,Warehouse C,2024-01-15
+SKU-020,Ethernet Cable Cat6a,390,Warehouse C,2024-01-15
+SKU-021, HDMI Cable 3ft ,425,Warehouse A,2024-01-15
+SKU-022,HDMI Cable 6ft,365,Warehouse A,2024-01-15
+SKU-023,HDMI Cable 10ft,210,Warehouse A,2024-01-15
+SKU-024,DisplayPort Cable,170,Warehouse A,2024-01-15
+SKU-027,Audio Cable 3.5mm,575,Warehouse C,2024-01-15
+SKU-028,Audio Cable RCA,385,Warehouse C,2024-01-15
+SKU-029,Optical Audio Cable,145,Warehouse C,2024-01-15
+SKU-030,Surge Protector 6-Outlet,188,Warehouse A,2024-01-15
+SKU-031,Surge Protector 12-Outlet,112,Warehouse A,2024-01-15
+SKU-032,Extension Cord 10ft,285,Warehouse B,2024-01-15
+SKU-033,Extension Cord 25ft,172,Warehouse B,2024-01-15
+SKU-034,Power Strip,240,Warehouse A,2024-01-15
+SKU-035,Cable Ties 100pk,1420,Warehouse C,01/15/2024
+SKU-036,Cable Ties 500pk,385,Warehouse C,2024-01-15
+SKU-037,Velcro Straps 50pk,765,Warehouse C,2024-01-15
+SKU-038,Label Maker,22,Warehouse A,2024-01-15
+SKU-039,Label Tape,185,Warehouse A,2024-01-15
+SKU-040,Screwdriver Set,142,Warehouse B,2024-01-15
+SKU-041,Precision Screwdriver Set,95,Warehouse B,2024-01-15
+SKU-042,Wire Stripper,70,Warehouse B,2024-01-15
+SKU-043,Crimping Tool,58,Warehouse B,2024-01-15
+SKU-044,Multimeter Basic,35,Warehouse A,2024-01-15
+SKU-045,Multimeter Professional,23,Warehouse A,2024-01-15
+SKU-046,Soldering Iron,32,Warehouse B,2024-01-15
+SKU-047,Solder Wire,280,Warehouse B,2024-01-15
+SKU-048,Heat Shrink Tubing,475,Warehouse C,2024-01-15
+SKU-049,Electrical Tape,760,Warehouse C,2024-01-15
+SKU-050,Anti-Static Wrist Strap,190,Warehouse A,2024-01-15
+SKU-051,Anti-Static Mat,48,Warehouse A,2024-01-15
+SKU-052,Compressed Air Can,375,Warehouse C,2024-01-15
+SKU-053,Isopropyl Alcohol 99%,140,Warehouse C,2024-01-15
+SKU-054,Microfiber Cloth 10pk,285,Warehouse C,2024-01-15
+SKU-045,Multimeter Pro,-5,Warehouse B,2024-01-15
+SKU-055,Screen Cleaner,235,Warehouse C,2024-01-15
+SKU-056,Keyboard Cleaner Gel,168,Warehouse C,2024-01-15
+SKU-057,Monitor Stand,42,Warehouse A,2024-01-15
+SKU-058,Laptop Stand,58,Warehouse A,2024-01-15
+SKU-059,Tablet Stand,75,Warehouse A,2024-01-15
+SKU-060,Phone Stand,115,Warehouse A,2024-01-15
+SKU-061,Desk Organizer,85,Warehouse B,2024-01-15
+SKU-062,Cable Management Box,105,Warehouse B,2024-01-15
+SKU-063,Headphone Hook,192,Warehouse B,2024-01-15
+SKU-064,Webcam Mount,72,Warehouse A,2024-01-15
+SKU-065,Ring Light 10in,38,Warehouse A,2024-01-15
+SKU-066,Ring Light 18in,22,Warehouse A,2024-01-15
+SKU-067,Tripod Small,52,Warehouse B,2024-01-15
+SKU-068,Tripod Large,33,Warehouse B,2024-01-15
+SKU-069,Green Screen,18,Warehouse A,2024-01-15
+SKU-070,Backdrop Stand,12,Warehouse A,2024-01-15
+SKU-071,USB Microphone,28,Warehouse A,2024-01-15
+SKU-072,XLR Microphone,18,Warehouse A,2024-01-15
+SKU-073,Pop Filter,95,Warehouse B,2024-01-15
+SKU-074,Boom Arm,42,Warehouse B,2024-01-15
+SKU-075,Shock Mount,38,Warehouse B,2024-01-15
+SKU-076,Stream Deck Mini,15,Warehouse A,2024-01-15
+SKU-077,Stream Deck XL,8,Warehouse A,2024-01-15
+SKU-078,Capture Card,12,Warehouse A,2024-01-15
+SKU-079,USB-C Hub,45,Warehouse A,2024-01-15
+SKU-080,Thunderbolt Cable,30,Warehouse A,2024-01-15

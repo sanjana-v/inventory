@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-02-21T21:31:14.833307+00:00",
+  "summary": {
+    "counts_by_status": {
+      "present_in_both_qty_changed": 72,
+      "only_in_snapshot_2_added": 5,
+      "only_in_snapshot_1_removed": 2,
+      "present_in_both_unchanged": 2
+    },
+    "changed_rows": 72,
+    "added_rows": 5,
+    "removed_rows": 2,
+    "location_changes": 1,
+    "name_mismatches": 1
+  },
+  "data_quality": {
+    "snapshot_1": [],
+    "snapshot_2": [
+      {
+        "source": "week2",
+        "type": "SKU_FORMAT",
+        "sku": "SKU-005",
+        "detail": "SKU005 -> SKU-005"
+      },
+      {
+        "source": "week2",
+        "type": "SKU_FORMAT",
+        "sku": "SKU-018",
+        "detail": "SKU018 -> SKU-018"
+      },
+      {
+        "source": "week2",
+        "type": "NEGATIVE_QUANTITY",
+        "sku": null,
+        "detail": "1 rows have negative quantity"
+      }
+    ]
+  }
+}

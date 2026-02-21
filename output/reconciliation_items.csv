@@ -1,0 +1,82 @@
+sku,name_1,name_2,location_1,location_2,qty_1,qty_2,qty_delta,qty_delta_pct,status,name_mismatch,location_changed
+SKU-025,VGA Cable,,Warehouse B,,50,,,,only_in_snapshot_1_removed,False,False
+SKU-026,DVI Cable,,Warehouse B,,35,,,,only_in_snapshot_1_removed,False,False
+SKU-076,,Stream Deck Mini,,Warehouse A,,15,,,only_in_snapshot_2_added,False,False
+SKU-077,,Stream Deck XL,,Warehouse A,,8,,,only_in_snapshot_2_added,False,False
+SKU-078,,Capture Card,,Warehouse A,,12,,,only_in_snapshot_2_added,False,False
+SKU-079,,USB-C Hub,,Warehouse A,,45,,,only_in_snapshot_2_added,False,False
+SKU-080,,Thunderbolt Cable,,Warehouse A,,30,,,only_in_snapshot_2_added,False,False
+SKU-001,Widget A,Widget A,Warehouse A,Warehouse A,150,145,-5,-3.33,present_in_both_qty_changed,False,False
+SKU-002,Widget B,Widget B,Warehouse A,Warehouse A,75,70,-5,-6.67,present_in_both_qty_changed,False,False
+SKU-003,Gadget Pro,Gadget Pro,Warehouse B,Warehouse B,200,185,-15,-7.5,present_in_both_qty_changed,False,False
+SKU-004,Gadget Lite,Gadget Lite,Warehouse A,Warehouse A,50,48,-2,-4.0,present_in_both_qty_changed,False,False
+SKU-005,Connector Cable 6ft,Connector Cable 6ft,Warehouse C,Warehouse C,500,480,-20,-4.0,present_in_both_qty_changed,False,False
+SKU-008,Power Supply Unit Pro,Power Supply Unit Pro,Warehouse A,Warehouse A,45,42,-3,-6.67,present_in_both_qty_changed,False,False
+SKU-009,Mounting Bracket Small,Mounting Bracket Small,Warehouse B,Warehouse B,1000,975,-25,-2.5,present_in_both_qty_changed,False,False
+SKU-010,Mounting Bracket Large,Mounting Bracket Large,Warehouse B,Warehouse B,750,720,-30,-4.0,present_in_both_qty_changed,False,False
+SKU-011,LED Panel 12x12,LED Panel 12x12,Warehouse A,Warehouse A,120,115,-5,-4.17,present_in_both_qty_changed,False,False
+SKU-012,LED Panel 24x24,LED Panel 24x24,Warehouse A,Warehouse A,90,85,-5,-5.56,present_in_both_qty_changed,False,False
+SKU-013,Thermal Paste Tube,Thermal Paste Tube,Warehouse C,Warehouse C,2000,1850,-150,-7.5,present_in_both_qty_changed,False,False
+SKU-014,Cooling Fan 80mm,Cooling Fan 80mm,Warehouse B,Warehouse B,300,290,-10,-3.33,present_in_both_qty_changed,False,False
+SKU-015,Cooling Fan 120mm,Cooling Fan 120mm,Warehouse B,Warehouse B,250,245,-5,-2.0,present_in_both_qty_changed,False,False
+SKU-016,USB Hub 4-Port,USB Hub 4-Port,Warehouse A,Warehouse A,180,165,-15,-8.33,present_in_both_qty_changed,False,False
+SKU-017,USB Hub 7-Port,USB Hub 7-Port,Warehouse A,Warehouse A,95,88,-7,-7.37,present_in_both_qty_changed,False,False
+SKU-018,Ethernet Cable Cat5,Ethernet Cable Cat5,Warehouse C,Warehouse C,800,750,-50,-6.25,present_in_both_qty_changed,False,False
+SKU-019,Ethernet Cable Cat6,Ethernet Cable Cat6,Warehouse C,Warehouse C,600,580,-20,-3.33,present_in_both_qty_changed,False,False
+SKU-020,Ethernet Cable Cat6a,Ethernet Cable Cat6a,Warehouse C,Warehouse C,400,390,-10,-2.5,present_in_both_qty_changed,False,False
+SKU-021,HDMI Cable 3ft,HDMI Cable 3ft,Warehouse A,Warehouse A,450,425,-25,-5.56,present_in_both_qty_changed,False,False
+SKU-022,HDMI Cable 6ft,HDMI Cable 6ft,Warehouse A,Warehouse A,380,365,-15,-3.95,present_in_both_qty_changed,False,False
+SKU-023,HDMI Cable 10ft,HDMI Cable 10ft,Warehouse A,Warehouse A,220,210,-10,-4.55,present_in_both_qty_changed,False,False
+SKU-024,DisplayPort Cable,DisplayPort Cable,Warehouse A,Warehouse A,175,170,-5,-2.86,present_in_both_qty_changed,False,False
+SKU-027,Audio Cable 3.5mm,Audio Cable 3.5mm,Warehouse C,Warehouse C,600,575,-25,-4.17,present_in_both_qty_changed,False,False
+SKU-028,Audio Cable RCA,Audio Cable RCA,Warehouse C,Warehouse C,400,385,-15,-3.75,present_in_both_qty_changed,False,False
+SKU-029,Optical Audio Cable,Optical Audio Cable,Warehouse C,Warehouse C,150,145,-5,-3.33,present_in_both_qty_changed,False,False
+SKU-030,Surge Protector 6-Outlet,Surge Protector 6-Outlet,Warehouse A,Warehouse A,200,188,-12,-6.0,present_in_both_qty_changed,False,False
+SKU-031,Surge Protector 12-Outlet,Surge Protector 12-Outlet,Warehouse A,Warehouse A,120,112,-8,-6.67,present_in_both_qty_changed,False,False
+SKU-032,Extension Cord 10ft,Extension Cord 10ft,Warehouse B,Warehouse B,300,285,-15,-5.0,present_in_both_qty_changed,False,False
+SKU-033,Extension Cord 25ft,Extension Cord 25ft,Warehouse B,Warehouse B,180,172,-8,-4.44,present_in_both_qty_changed,False,False
+SKU-034,Power Strip,Power Strip,Warehouse A,Warehouse A,250,240,-10,-4.0,present_in_both_qty_changed,False,False
+SKU-035,Cable Ties 100pk,Cable Ties 100pk,Warehouse C,Warehouse C,1500,1420,-80,-5.33,present_in_both_qty_changed,False,False
+SKU-036,Cable Ties 500pk,Cable Ties 500pk,Warehouse C,Warehouse C,400,385,-15,-3.75,present_in_both_qty_changed,False,False
+SKU-037,Velcro Straps 50pk,Velcro Straps 50pk,Warehouse C,Warehouse C,800,765,-35,-4.38,present_in_both_qty_changed,False,False
+SKU-038,Label Maker,Label Maker,Warehouse A,Warehouse A,25,22,-3,-12.0,present_in_both_qty_changed,False,False
+SKU-039,Label Tape,Label Tape,Warehouse A,Warehouse A,200,185,-15,-7.5,present_in_both_qty_changed,False,False
+SKU-040,Screwdriver Set,Screwdriver Set,Warehouse B,Warehouse B,150,142,-8,-5.33,present_in_both_qty_changed,False,False
+SKU-041,Precision Screwdriver Set,Precision Screwdriver Set,Warehouse B,Warehouse B,100,95,-5,-5.0,present_in_both_qty_changed,False,False
+SKU-042,Wire Stripper,Wire Stripper,Warehouse B,Warehouse B,75,70,-5,-6.67,present_in_both_qty_changed,False,False
+SKU-043,Crimping Tool,Crimping Tool,Warehouse B,Warehouse B,60,58,-2,-3.33,present_in_both_qty_changed,False,False
+SKU-044,Multimeter Basic,Multimeter Basic,Warehouse A,Warehouse A,40,35,-5,-12.5,present_in_both_qty_changed,False,False
+SKU-045,Multimeter Pro,Multimeter Professional,Warehouse A,Warehouse A,25,23,-2,-8.0,present_in_both_qty_changed,True,False
+SKU-045,Multimeter Pro,Multimeter Pro,Warehouse A,Warehouse B,25,-5,-30,-120.0,present_in_both_qty_changed,False,True
+SKU-046,Soldering Iron,Soldering Iron,Warehouse B,Warehouse B,35,32,-3,-8.57,present_in_both_qty_changed,False,False
+SKU-047,Solder Wire,Solder Wire,Warehouse B,Warehouse B,300,280,-20,-6.67,present_in_both_qty_changed,False,False
+SKU-048,Heat Shrink Tubing,Heat Shrink Tubing,Warehouse C,Warehouse C,500,475,-25,-5.0,present_in_both_qty_changed,False,False
+SKU-049,Electrical Tape,Electrical Tape,Warehouse C,Warehouse C,800,760,-40,-5.0,present_in_both_qty_changed,False,False
+SKU-050,Anti-Static Wrist Strap,Anti-Static Wrist Strap,Warehouse A,Warehouse A,200,190,-10,-5.0,present_in_both_qty_changed,False,False
+SKU-051,Anti-Static Mat,Anti-Static Mat,Warehouse A,Warehouse A,50,48,-2,-4.0,present_in_both_qty_changed,False,False
+SKU-052,Compressed Air Can,Compressed Air Can,Warehouse C,Warehouse C,400,375,-25,-6.25,present_in_both_qty_changed,False,False
+SKU-053,Isopropyl Alcohol 99%,Isopropyl Alcohol 99%,Warehouse C,Warehouse C,150,140,-10,-6.67,present_in_both_qty_changed,False,False
+SKU-054,Microfiber Cloth 10pk,Microfiber Cloth 10pk,Warehouse C,Warehouse C,300,285,-15,-5.0,present_in_both_qty_changed,False,False
+SKU-055,Screen Cleaner,Screen Cleaner,Warehouse C,Warehouse C,250,235,-15,-6.0,present_in_both_qty_changed,False,False
+SKU-056,Keyboard Cleaner Gel,Keyboard Cleaner Gel,Warehouse C,Warehouse C,180,168,-12,-6.67,present_in_both_qty_changed,False,False
+SKU-057,Monitor Stand,Monitor Stand,Warehouse A,Warehouse A,45,42,-3,-6.67,present_in_both_qty_changed,False,False
+SKU-058,Laptop Stand,Laptop Stand,Warehouse A,Warehouse A,60,58,-2,-3.33,present_in_both_qty_changed,False,False
+SKU-059,Tablet Stand,Tablet Stand,Warehouse A,Warehouse A,80,75,-5,-6.25,present_in_both_qty_changed,False,False
+SKU-060,Phone Stand,Phone Stand,Warehouse A,Warehouse A,120,115,-5,-4.17,present_in_both_qty_changed,False,False
+SKU-061,Desk Organizer,Desk Organizer,Warehouse B,Warehouse B,90,85,-5,-5.56,present_in_both_qty_changed,False,False
+SKU-062,Cable Management Box,Cable Management Box,Warehouse B,Warehouse B,110,105,-5,-4.55,present_in_both_qty_changed,False,False
+SKU-063,Headphone Hook,Headphone Hook,Warehouse B,Warehouse B,200,192,-8,-4.0,present_in_both_qty_changed,False,False
+SKU-064,Webcam Mount,Webcam Mount,Warehouse A,Warehouse A,75,72,-3,-4.0,present_in_both_qty_changed,False,False
+SKU-065,Ring Light 10in,Ring Light 10in,Warehouse A,Warehouse A,40,38,-2,-5.0,present_in_both_qty_changed,False,False
+SKU-066,Ring Light 18in,Ring Light 18in,Warehouse A,Warehouse A,25,22,-3,-12.0,present_in_both_qty_changed,False,False
+SKU-067,Tripod Small,Tripod Small,Warehouse B,Warehouse B,55,52,-3,-5.45,present_in_both_qty_changed,False,False
+SKU-068,Tripod Large,Tripod Large,Warehouse B,Warehouse B,35,33,-2,-5.71,present_in_both_qty_changed,False,False
+SKU-069,Green Screen,Green Screen,Warehouse A,Warehouse A,20,18,-2,-10.0,present_in_both_qty_changed,False,False
+SKU-070,Backdrop Stand,Backdrop Stand,Warehouse A,Warehouse A,15,12,-3,-20.0,present_in_both_qty_changed,False,False
+SKU-071,USB Microphone,USB Microphone,Warehouse A,Warehouse A,30,28,-2,-6.67,present_in_both_qty_changed,False,False
+SKU-072,XLR Microphone,XLR Microphone,Warehouse A,Warehouse A,20,18,-2,-10.0,present_in_both_qty_changed,False,False
+SKU-073,Pop Filter,Pop Filter,Warehouse B,Warehouse B,100,95,-5,-5.0,present_in_both_qty_changed,False,False
+SKU-074,Boom Arm,Boom Arm,Warehouse B,Warehouse B,45,42,-3,-6.67,present_in_both_qty_changed,False,False
+SKU-075,Shock Mount,Shock Mount,Warehouse B,Warehouse B,40,38,-2,-5.0,present_in_both_qty_changed,False,False
+SKU-006,Connector Cable 10ft,Connector Cable 10ft,Warehouse C,Warehouse C,350,350,0,0.0,present_in_both_unchanged,False,False
+SKU-007,Power Supply Unit,Power Supply Unit,Warehouse A,Warehouse A,80,80,0,0.0,present_in_both_unchanged,False,False
